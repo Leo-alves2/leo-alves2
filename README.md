@@ -1,12 +1,14 @@
 ### Oi, sou o Leonardo Vieira 👋
 
-- 🔭 Hoje eu trabalho como Comprador em uma empresa de Higieni e Limpeza, já tenho experiencia nesta área de 23 anos.
-- 🌱 Atualmente estou utilizando o que aprendendo em Cursos de Data Science / Python para fazer Analise, Planejamento e Compras de estoque.
-- 👯 Tenho colaborado em projetos interno da empresa de Power BI Dashboards.
-- 🤔 Utilizo meu conhecimento em ETL para explorar os dados gerados pelo comercial.
-- 💬 A experiência em compras levar a ter condição de responder perguntas sobre Planejamento e Abastecimento de Estoque VS Vendas "entrada e saida de material".
-- 📫 Pode em contactar pelo meu e-mail - leo.alves.b.vieira@gmail.com
-- 😄 Ele/Dele
+🔭 Hoje, trabalho como Planejador/Comprador de Materiais Médicos e de Higiene e Limpeza na empresa Master Higieni. Tenho mais de 23 anos de experiência nesta área.
+
+🌱 Atualmente, estou aplicando o que tenho aprendido em cursos de Análise de Dados e Machine Learning, juntamente com Python, para realizar minhas tarefas diárias.
+
+👯 Tenho colaborado em projetos internos na empresa, desenvolvendo Dashboards e realizando análises de dados.
+
+💬 Minha experiência no departamento de compras me permite responder a perguntas sobre a movimentação de estoque e realizar um planejamento e abastecimento mais preciso.
+
+📫 Você pode entrar em contato comigo pelo meu e-mail: leo.alves.b.vieira@gmail.com.
 
 <div align="center">
   <a href="https://github.com/leo-alves2">
