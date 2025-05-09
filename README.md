@@ -1,4 +1,5 @@
 Oi, sou o Leonardo Vieira 👋
+
 🔧 Supervisor de Suprimentos | Planejador de Materiais Médicos, Higiene e Limpeza na Master Higieni, com mais de 23 anos de experiência em compras, controle de estoque e logística.
 
 📊 Atualmente, estou aplicando conhecimentos em Análise de Dados, Machine Learning e Python para automatizar tarefas, gerar insights e melhorar a precisão no planejamento de compras.
