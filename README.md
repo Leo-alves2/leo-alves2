@@ -1,17 +1,53 @@
-Oi, sou o Leonardo Vieira 👋
+# Olá, eu sou Leonardo Vieira 👋
 
-🔧 Supervisor de Suprimentos | Planejador de Materiais Médicos, Higiene e Limpeza na Master Higieni, com mais de 23 anos de experiência em compras, controle de estoque e logística.
+**Supervisor de Suprimentos | Dados, Automação e Desenvolvimento Full Stack**
 
-📊 Atualmente, estou aplicando conhecimentos em Análise de Dados, Machine Learning e Python para automatizar tarefas, gerar insights e melhorar a precisão no planejamento de compras.
+Tenho mais de 20 anos de experiência em compras, planejamento de materiais, gestão de estoque e negociação com fornecedores. Hoje conecto esse conhecimento operacional à análise de dados e ao desenvolvimento de software para transformar problemas reais de negócio em soluções práticas.
 
-📈 Tenho colaborado em projetos internos desenvolvendo dashboards interativos com Streamlit, Power BI e Excel Avançado, otimizando decisões estratégicas no setor de suprimentos.
+## O que eu faço
 
-💡 Minha experiência prática me permite responder a perguntas sobre movimentação de estoque, consumo médio, sazonalidade e realizar um planejamento mais assertivo baseado em dados.
+- Desenvolvo dashboards e indicadores para compras, estoque, consumo, cobertura e desempenho de fornecedores.
+- Automatizo análises e rotinas com **Power BI, Python, SQL e Excel**.
+- Construo aplicações web com **Next.js, React, TypeScript, Supabase/PostgreSQL e Docker**.
+- Aplico visão de negócio, dados e tecnologia à melhoria contínua da cadeia de suprimentos.
 
-📫 Contato: leo.alves.b.vieira@gmail.com
+## Stack principal
 
-<div align="center"> <a href="https://github.com/leo-alves2"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-alves2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-alves2&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
-💻 Tecnologias que utilizo:
-<div style="display: inline_block"><br> <img align="center" alt="Leo-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="Leo-Anaconda" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> <img align="center" alt="Leo-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="center" alt="Leo-Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" /> <img align="center" alt="Leo-PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png" /> <img align="center" alt="Leo-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> </div>
-🌐 Onde me encontrar:
-<div> <a href="https://www.instagram.com/leo_alves2/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://twitter.com/leo_alves2" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://discord.gg/leo_alves2#7431" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="mailto:leo.alves.b.vieira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/leonardo-vieira-a671ba63" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
+
+## Projetos recentes
+
+### BolãoPro 2027 — plataforma de bolão esportivo
+
+Aplicação SaaS criada com Next.js, React, TypeScript, Supabase/PostgreSQL e Redis. Inclui ligas, palpites, ranking, premiações, pagamentos com Mercado Pago, integração com dados esportivos, PWA, observabilidade e controles de segurança. O projeto possui **210 testes unitários em 54 arquivos e 108 cenários E2E em seis viewports**. Código mantido em repositório privado.
+
+### Agenda Já — SaaS de agendamento
+
+Solução B2B para negócios locais brasileiros, construída com Next.js 16, React 19, TypeScript, Supabase, Docker e GitHub Actions. A fundação técnica inclui validação de ambiente, testes automatizados, CI, banco local, staging e documentação de arquitetura, segurança e operação. Código mantido em repositório privado.
+
+### Dashboard estratégico de estoque e compras
+
+Dashboard para acompanhar estoque, consumo, giro, cobertura, reposição, custos e desempenho de fornecedores, conectando análises descritivas, diagnósticas e preditivas às decisões operacionais.
+
+## Projetos públicos selecionados
+
+- [Análise de Emprego em Ciência de Dados no Reino Unido](https://github.com/Leo-alves2/AnaliseEmpregonoReinoUnido)
+- [Análise de Acidentes de Trânsito](https://github.com/Leo-alves2/Acidente_Transito)
+- [Análise de Acidente Vascular Cerebral](https://github.com/Leo-alves2/Acidente_Vascular-Cerebral)
+- [Radar de Ações da Petrobras com Python](https://github.com/Leo-alves2/Analise_Acao_Petrobras)
+- [Experimento com Docker Dev Containers](https://github.com/Leo-alves2/teste_container)
+- [Banco de Dados com Python](https://github.com/Leo-alves2/Banco_dados_Python)
+
+## Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vieira-a671ba63/)
+[![Syncodex](https://img.shields.io/badge/Syncodex-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syncodex.com.br)
